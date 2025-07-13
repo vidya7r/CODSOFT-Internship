@@ -1,0 +1,40 @@
+# ZenThi Fashions 👗🛍️
+
+Welcome to **ZenThi Fashions** – A stylish, modern fashion e-commerce platform for men, women, and kids. The platform is designed to provide an immersive and elegant shopping experience with a variety of ethnic and western wear categories.
+
+## 🌐 Website Features
+
+### 🎨 Home Page
+- Full-screen fashion banners with rotating promotions.
+- Categories like:
+  - **Western Wear**
+  - **Indian Wear**
+  - **Summer Wear**
+  - **Kids**
+  - **Accessories**
+
+### 👗 Fashion Shop Page
+- Scrollable collection of ethnic wear: Sarees, Lehengas, Kurta Sets, and more.
+- Offers:
+  - *Festival Style Wear Sale*
+  - *Gift vouchers on orders above ₹1000*
+- Easy-to-navigate category filters:
+  - New In
+  - Suits Set
+  - Kurtis for Men
+  - Sarees, Lehengas
+  - Ethnic Wear
+  - Co-Ord Sets
+
+## 🔐 User Features
+- Account creation and login
+- Wishlist and cart options
+- Order tracking system
+
+## 🧰 Tech Stack (Assumed)
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** Node.js / Django / Flask (not shown in UI)
+- **Database:** MySQL / MongoDB
+- **Design Tools:** Figma / Photoshop
+
+## 📁 Project Structure (Sample)
